@@ -1,7 +1,7 @@
 <!-- Actual text -->
-## Hi there, I am Richard, Software Engineer and Game Developer. 👋
+### Hi there, I am Richard, Software Engineer and Game Developer. 👋
 
-### You can find me on: [![Twitch][1.1]][1]    [![Site][1.2]][2]    [![LinkedIn][1.3]][3]    [![Youtube][1.4]][4]
+#### You can find me on: [![Twitch][1.1]][1]    [![Site][1.2]][2]    [![LinkedIn][1.3]][3]    [![Youtube][1.4]][4]
 
 <!-- Icons -->
 
@@ -17,7 +17,7 @@
 [3]: https://www.linkedin.com/in/richardzampieri/
 [4]: https://www.youtube.com/channel/UC-LQ5QnaWYUULiMfswEgF4A?view_as=subscriber
 
-### My Contributions ⚡                                ### Languages I am using recently 💬
+#### My Contributions ⚡
 <a href="https://github.com/rsaz/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rsaz&count_private=true&show_icons=true&theme=dracula" />
 </a>
