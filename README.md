@@ -8,7 +8,7 @@ You can find me on: [![Twitch][1.1]][1] , [![Site][1.2]][2] , [![LinkedIn][1.3]]
 [1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [1.3]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[1.4]: https://image.flaticon.com/icons/svg/1562/1562715.svg (LinkedIn icon without padding)
+[1.4]: https://img.icons8.com/ios-glyphs/30/000000/youtube-play.png" (Youtube icon without padding)
 
 <!-- Links to your social media accounts -->
 
