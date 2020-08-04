@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rsaz)](https://github.com/rsaz/github-readme-stats)
+[![Richard github stats](https://github-readme-stats.vercel.app/api?username=rsaz&count_private=true&show_icons=true&theme=dracula)](https://github.com/rsaz/github-readme-stats)
 
 ### Hi there 👋
 
