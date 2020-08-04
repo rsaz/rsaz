@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rsaz)](https://github.com/rsaz/github-readme-stats)
 
 ### Hi there 👋
 
