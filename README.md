@@ -18,16 +18,10 @@
 [4]: https://www.youtube.com/channel/UC-LQ5QnaWYUULiMfswEgF4A?view_as=subscriber
 
 ### My Contributions ⚡
-
-[![Richard github stats](https://github-readme-stats.vercel.app/api?username=rsaz&count_private=true&show_icons=true&theme=dracula)](https://github.com/rsaz/github-readme-stats)
-
-### Languages I am using recently 💬
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsaz&theme=dracula)](https://github.com/rsaz/github-readme-stats)
-
 <a href="https://github.com/rsaz/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rsaz&count_private=true&show_icons=true&theme=dracula" />
 </a>
+### Languages I am using recently 💬
 <a href="https://github.com/rsaz/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsaz&theme=dracula" />
 </a>
