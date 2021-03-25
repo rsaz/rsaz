@@ -22,10 +22,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rsaz&count_private=true&show_icons=true&theme=onedark" />
 </a>
 <a href="https://github.com/rsaz/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsaz&theme=onedark" />
-</a>
-<a href="https://github.com/rsaz/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=rsaz" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsaz&theme=onedark&layout=compact" />
 </a>
 
 
