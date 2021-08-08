@@ -18,12 +18,16 @@
 [4]: https://www.youtube.com/channel/UC-LQ5QnaWYUULiMfswEgF4A?view_as=subscriber
 
 #### My Contributions ⚡
+| ![](https://github-readme-stats.vercel.app/api?username=rsaz&hide=stars,issues&title_color=6bbbca&icon_color=6bbbca&show_icons=1&hide_border=1&text_color=fff&bg_color=333&custom_title=Github%20Stats) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rsaz&hide_border=1&layout=compact&text_color=fff&bg_color=333&hide=html,eagle,css&title_color=6bbbca)
+| - | - |
+
+<!--
 <a href="https://github.com/rsaz/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=rsaz&count_private=true&show_icons=true&theme=onedark" />
 </a>
 <a href="https://github.com/rsaz/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsaz&theme=onedark&layout=compact" />
-</a>
+</a> -->
 
 
 <!--
