@@ -1,46 +1,20 @@
 <!-- Actual text -->
 ### Hi there, I am Richard, Software Engineer and Game Developer. 👋
 
-#### You can find me on: [![Twitch][1.1]][1]    [![Site][1.2]][2]    [![LinkedIn][1.3]][3]    [![Youtube][1.4]][4]
+#### You can find me on: [![Twitch][1.1]][1]    [![LinkedIn][1.2]][2]    [![Youtube][1.3]][3]
 
 <!-- Icons -->
 
 [1.1]: https://img.icons8.com/color/30/000000/twitch--v1.png (twitch icon without padding)
-[1.2]: https://img.icons8.com/color/30/000000/user-location.png (Site icon without padding)
-[1.3]: https://img.icons8.com/color/30/000000/linkedin.png (LinkedIn icon without padding)
-[1.4]: https://img.icons8.com/color/30/000000/youtube-play.png (Youtube icon without padding)
+[1.2]: https://img.icons8.com/color/30/000000/linkedin.png (LinkedIn icon without padding)
+[1.3]: https://img.icons8.com/color/30/000000/youtube-play.png (Youtube icon without padding)
 
 <!-- Links to your social media accounts -->
 
 [1]: https://www.twitch.tv/id_akira
-[2]: https://www.richardzampieri.com/
-[3]: https://www.linkedin.com/in/richardzampieri/
-[4]: https://www.youtube.com/channel/UC-LQ5QnaWYUULiMfswEgF4A?view_as=subscriber
+[2]: https://www.linkedin.com/in/richardzampieri/
+[3]: https://www.youtube.com/channel/UC-LQ5QnaWYUULiMfswEgF4A?view_as=subscriber
 
-#### My Contributions ⚡
+#### Recent Statistics ⚡
 | ![](https://github-readme-stats.vercel.app/api?username=rsaz&hide=stars,issues&title_color=6bbbca&icon_color=6bbbca&show_icons=1&hide_border=1&text_color=fff&bg_color=333&custom_title=Github%20Stats) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rsaz&hide_border=1&layout=compact&text_color=fff&bg_color=333&hide=html,eagle,css&title_color=6bbbca)
 | - | - |
-
-<!--
-<a href="https://github.com/rsaz/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rsaz&count_private=true&show_icons=true&theme=onedark" />
-</a>
-<a href="https://github.com/rsaz/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsaz&theme=onedark&layout=compact" />
-</a> -->
-
-
-<!--
-**rsaz/rsaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
