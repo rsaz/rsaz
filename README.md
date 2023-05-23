@@ -24,9 +24,11 @@
 
 <img align="left" width="" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <br><br>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=rsaz&show_icons=true&theme=gruvbox" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsaz&hide_border=1&layout=compact&text_color=fff&bg_color=333&hide=html,eagle,css&title_color=6bbbca">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=rsaz&show_icons=true&theme=gruvbox" /><img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsaz&hide_border=1&layout=compact&text_color=fff&bg_color=333&hide=html,eagle,css&title_color=6bbbca">
+
+
+
 
 
 
